@@ -4,6 +4,8 @@
 
 Layerhub is a simple tool designed to check and retrieve ranking and activity data for wallets on the Monad Testnet blockchain. It helps users and developers bulk query wallet ranks, transaction counts, and other engagement metrics using the Layerhub API.
 
+Updated: 05/09 getting ready for Monad EVM deployment
+
 ## Features
 
 - Bulk wallet rank checking on Monad Testnet
